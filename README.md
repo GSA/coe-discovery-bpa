@@ -6,7 +6,7 @@
 
 ## GSA seeking feedback on next iteration of acquisition strategy for Centers of Excellence
 
-On January 24, 2019, the U.S. General Services Administration (GSA) issued a [Request for Information](RFI.md) (RFI) on its Centers of Excellence (CoE) draft Blanket Purchase Agreement for Phase I discovery and assessment efforts ([Discovery BPA](Draft-RFQ.md)). The RFI seeks industry feedback on the proposed Discovery BPA and is open for comment until Friday, February 8, 2019. Interested vendors can view the RFI on eBuy by searching RFQID number RFQ1347115 with a title of “Center of Excellence Discovery.”
+On January 24, 2019, the U.S. General Services Administration (GSA) issued a [Request for Information](RFI.pdf) (RFI) on its Centers of Excellence (CoE) draft Blanket Purchase Agreement for Phase I discovery and assessment efforts ([Discovery BPA](Draft-RFQ.pdf)). The RFI seeks industry feedback on the proposed Discovery BPA and is open for comment until Friday, February 8, 2019. Interested vendors can view the RFI on eBuy by searching RFQID number RFQ1347115 with a title of “Center of Excellence Discovery.”
 
 The proposed Discovery BPA, has an anticipated three year performance period and would result in a pool of multiple awardees with expertise in at least three functional areas. It would replace the current Phase I approach, which uses one contract to cover all of a CoE’s Phase I work, with a model that allows CoEs to quickly issue call orders as needs arise. This new level of flexibility will enable each CoE to dive deeply into the areas they are tasked to work on, further facilitating rapid transformation.
 
