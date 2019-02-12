@@ -2,7 +2,7 @@
 
 ## Disclaimer
 
-**Please note that the only way to respond is through the Google Form that is linked in our eBuy posting (ie, we will not consider any responses sent via email, through GitHub, or any other medium). Any documentation from the RFI on this repository is being posted only for informational purposes. Thanks!**
+**Please note that the RFI has been closed and no more responses will be accepted. Keep an eye on this repository for future updates. Thanks!**
 
 ## GSA seeking feedback on next iteration of acquisition strategy for Centers of Excellence
 
