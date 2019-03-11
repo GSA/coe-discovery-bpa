@@ -2,7 +2,7 @@
 
 ## Disclaimer
 
-**Please note that the only way in which you can inquire about or respond to the Request for Quote is via eBuy. Anything sent via GitHub, email, or otherwise will not be considered. Thanks!**
+**Please note that the only way in which you can inquire about or respond to the Request for Quote is via eBuy under RFQ ID number RFQ1354052 with a title of “Technology Transformation Services Centers of Excellence Blanket Purchase Agreement.” Anything sent via GitHub, email, or otherwise will not be considered. Thanks!**
 
 ## More information
 A more substantive README.md will be posted shortly, we just wanted to make sure the public was able to view the RFQ as quickly as possible.
