@@ -30,4 +30,5 @@ The mission of the U.S. General Services Administration is to deliver value and 
 
 - [Request for Quote (RFQ)](RFQ.pdf)
 - [Frequently asked questions (FAQ)](FAQ.md) about our RFQ
+- [Amendment 01 - RFQ](https://github.com/GSA/coe-discovery-bpa/blob/master/Amendment%2001%20-%20RFQ.pdf) 
 
