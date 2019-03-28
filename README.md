@@ -32,4 +32,5 @@ The mission of the U.S. General Services Administration is to deliver value and 
 - [Frequently asked questions (FAQ)](FAQ.md) about our RFQ
 - [Amendment 01 - RFQ](https://github.com/GSA/coe-discovery-bpa/blob/master/Amendment%2001%20-%20RFQ.pdf) 
 - [Amendment 01 - Questions and Answers](https://github.com/GSA/coe-discovery-bpa/blob/master/Amendment%2001%20Questions%20and%20Answers.xlsx)
+- [Amendment 02 - Challenge Question](https://github.com/GSA/coe-discovery-bpa/blob/master/Amendment%2002%20-%20Challenge%20Question.pdf)
 
