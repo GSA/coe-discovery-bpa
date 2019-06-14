@@ -2,35 +2,85 @@
 
 ## Disclaimer
 
-**Please note that the only way in which you can inquire about or respond to the Request for Quote is via eBuy under RFQ ID number RFQ1354052 with a title of “Technology Transformation Services Centers of Excellence Blanket Purchase Agreement.” Anything sent via GitHub, email, or otherwise will not be considered. Thanks!**
+**Please note that the document on this repository are for informational purposes only. The BPA itself as well as each order issued against it have alrady been solicited. The intention of posting these documents is to assist our federal colleagues who may want to replicate part of or all of our procurements. As always, we are happy to answer any questions, but we appreciate you understanding the purpose of this repository. Thanks!**
 
-## GSA seeking bids for Discovery BPA for Centers of Excellence
-**March 12, 2019**
+## GSA Issues Discovery BPA for Centers of Excellence
 
-The U.S. General Services Administration (GSA) yesterday issued a Request for Quote (RFQ) on its Centers of Excellence (the CoEs) Blanket Purchase Agreement for Phase One Discovery and Assessment efforts (Discovery BPA). The RFQ is open for questions until Tuesday, March 19, 2019, and open for responses until Monday, April 1, 2019.
+**June 4, 2019**
 
-The RFQ incorporates the following key changes, among others, based on industry feedback from the Request for Information (RFI):
+WASHINGTON - The U.S. General Services Administration’s Technology Transformation Services, along with the team in GSA Region 1 Assisted Acquisition Services, issued the Centers of Excellence (CoE) Discovery Blanket Purchase Agreement (Discovery BPA) on May 21, 2019. The Discovery BPA will provide the CoE and future agency partners the flexibility and speed necessary to perform numerous discovery and assessment efforts at multiple agencies, simultaneously.
 
-- A challenge question, specific to a functional area, to test a contractor’s technical capabilities, with responses due within 48 hours of posting.
-- A scenario question, specific to the way the CoEs operate, to test a contractor’s ability to work with other contractors and government employees in a cross-functional team.
-- The ability for a contractor to submit a response to just one functional area rather than a minimum of three.
+GSA incorporated the feedback received from industry to make significant and innovative changes to the evaluation process, allowing for greater small business participation. As a result, the Discovery BPA will give the CoE a contract vehicle that includes partners who demonstrate a fundamental understanding of the challenges—and solutions—facing IT modernization efforts.
 
-With these three changes in particular, GSA aims to widen the opportunity for contractors to respond and to work with contractors who can best achieve the technical objectives of the CoEs. Contractors of any size or economic status, including small businesses, are encouraged to participate.
+“With just about a third of the agreements going to small businesses, we are proud of the cross-section of American industry and technological expertise represented,” said GSA CoE Executive Director Bob De Luca. “We selected companies who demonstrated the potential to discover issues related to current legacy systems and develop recommendations for modern-day technological solutions to the problems our citizens face when interacting with government services.”
 
-“The CoEs are focused on establishing a model of private/public relationships for IT modernization efforts that will prove fruitful to both sides of the partnership, and obtaining and incorporating industry feedback is a key way in which we hope to achieve that objective,” said Bob De Luca, Executive Director of the CoEs. “We are striving to set best practices in all aspects of our work, from the technical aspects to the procurement process itself, including both pre- and post-award related work.”
+The following 22 agreements on the Discovery BPA are listed in alphabetical order:
 
-Rather than using one contract for discovery work at every partner agency, this BPA allows GSA to find the best-suited contractor for each agency’s exact needs, allowing CoE government and contractor teams to provide their best work.
+- **Change Management**
+   - Ambit Group, LLC
+   - Deloitte Consulting LLP
+   - Ernst & Young, LLP
+   - ICF Incorporated LLC
+   - International Business Machines Corporation
+   - McKinsey & Company, Inc., Washington, D.C.
+- **Cloud Adoption**
+   - Capgemini Government Solutions LLC
+   - Flexion Inc.
+   - ICF Incorporated LLC
+   - McKinsey & Company, Inc., Washington, D.C.
+- **Contact Center**
+   - Deloitte Consulting LLP
+   - Digital Management LLC
+   - HighPoint Digital, Inc.
+   - ICF Incorporated LLC
+   - McKinsey & Company, Inc., Washington, D.C.
+   - Slalom, LLC
+- **Customer Experience**
+   - Arc Aspicio LLC
+   - Deloitte Consulting LLP
+   - Grant Thornton LLP
+   - Guidehouse LLP
+   - ICF Incorporated LLC
+   - International Business Machines Corporation
+- **Data Analytics**
+   - Guidehouse LLP
+   - KPMG LLP
+   - McKinsey & Company, Inc., Washington, D.C.
+- **Information Security**
+   - Centennial Technologies Inc.
+   - Deloitte Consulting LLP
+   - Electrosoft Services, Inc.
+   - Ernst & Young, LLP
+   - Grant Thornton LLP
+   - ICF Incorporated LLC
+   - International Business Machines Corporation
+   - KPMG LLP
+   - McKinsey & Company, Inc., Washington, D.C.
+   - MindPoint Group, LLC
+   - ShorePoint, Inc.
+   - Veris Group, LLC d/b/a Coalfire Federal
+- **IT Infrastructure Optimization**
+   - Capgemini Government Solutions LLC
+   - Deloitte Consulting LLP
+   - Ernst & Young, LLP
+   - Gartner, Inc.
+   - Guidehouse LLP
+   - ICF Incorporated LLC
+   - International Business Machines Corporation
+   - KPMG LLP
+   - McKinsey & Company, Inc., Washington, D.C.
+   - Systems Engineering Solutions Corporation
 
-Interested vendors can view and respond to the RFQ on eBuy, the official location of the RFQ, by searching RFQ ID number RFQ1354052 with a title of “Technology Transformation Services Centers of Excellence Blanket Purchase Agreement.” The RFQ is also posted for public viewing on the CoE Discovery BPA RFQ [GitHub repository](https://github.com/GSA/coe-discovery-bpa). It is important to note the GitHub posting is for informational purposes only and the only medium for submitting questions or responses will be via the methods outlined on eBuy.
+The CoE anticipates issuing the first orders against the Discovery BPA by the end of 2019.
 
 ### About GSA
-The mission of the U.S. General Services Administration is to deliver value and savings in real estate, acquisition, technology, and other mission-support services across the government. The CoEs provide agencies with consulting, acquisition, and IT engineering services to radically improve the way agencies design services and interact with their customers. To learn more about GSA visit [gsa.gov](https://www.gsa.gov/) or join the conversation on social media at [@USGSA](https://twitter.com/usgsa) and [@GSAEmily](https://twitter.com/gsaemily).
+The mission of the U.S. General Services Administration is to deliver value and savings in real estate, acquisition, technology, and other mission-support services across the government. As the newest addition to the Technology Transformation Services, the Centers of Excellence accelerates IT modernization by leveraging private sector innovation and government services while centralizing best practices and expertise for holistic transformation. To learn more about GSA visit [gsa.gov](https://www.gsa.gov/) or join the conversation on social media at [@USGSA](https://twitter.com/usgsa), [@GSACoE](https://twitter.com/gsacose), and [@GSAEmily](https://twitter.com/gsaemily).
 
 ## Learn more
 
-- [Request for Quote (RFQ)](RFQ.pdf)
-- [Frequently asked questions (FAQ)](FAQ.md) about our RFQ
-- [Amendment 01 - RFQ](https://github.com/GSA/coe-discovery-bpa/blob/master/Amendment%2001%20-%20RFQ.pdf) 
-- [Amendment 01 - Questions and Answers](https://github.com/GSA/coe-discovery-bpa/blob/master/Amendment%2001%20Questions%20and%20Answers.xlsx)
-- [Amendment 02 - Challenge Question](https://github.com/GSA/coe-discovery-bpa/blob/master/Amendment%2002%20-%20Challenge%20Question.pdf)
+### Solicitation-related and award documents
+- [The underlying BPA](BPA/)
+
+### External links
+- [CoE's official website](https://coe.gsa.gov/)
 
