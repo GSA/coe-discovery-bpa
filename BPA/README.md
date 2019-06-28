@@ -1,3 +1,5 @@
+[CoE Acquisitions](https://github.com/GSA/coe-acquisitions) > [Discovery BPA](https://github.com/GSA/coe-discovery-bpa/) > BPA
+
 # The Discovery BPA
 
 This subfolder contains the files associated with the underlying BPA as they were once the solicitation closed.
