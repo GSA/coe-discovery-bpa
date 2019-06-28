@@ -1,3 +1,6 @@
+[CoE Acquisitions](https://github.com/GSA/coe-acquisitions) > Discovery BPA
+
+
 # Centers of Excellence
 
 ## Disclaimer
