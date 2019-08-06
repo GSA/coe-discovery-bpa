@@ -5,7 +5,7 @@
 
 ## Disclaimer
 
-**Please note that the document on this repository are for informational purposes only. The BPA itself as well as each order issued against it have alrady been solicited. The intention of posting these documents is to assist our federal colleagues who may want to replicate part of or all of our procurements. As always, we are happy to answer any questions, but we appreciate you understanding the purpose of this repository. Thanks!**
+**Please note that the document on this repository are for informational purposes only. The BPA itself as well as each order issued against it have already been solicited. The intention of posting these documents is to assist our federal colleagues who may want to replicate part of or all of our procurements. As always, we are happy to answer any questions, but we appreciate you understanding the purpose of this repository. Thanks!**
 
 ## GSA Issues Discovery BPA for Centers of Excellence
 
