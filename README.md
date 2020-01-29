@@ -88,6 +88,7 @@ The mission of the U.S. General Services Administration is to deliver value and 
 
 ### Solicitation-related and award documents
 - [The underlying BPA](BPA/)
+- [Discovery BPA Evaluations - What we learned at CoE](https://github.com/GSA/coe-discovery-bpa/blob/master/Discovery%20BPA%20Evaluations%20-%20What%20we%20learned%20at%20CoE.pptx)
 
 ### External links
 - [CoE's official website](https://coe.gsa.gov/)
