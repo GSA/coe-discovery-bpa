@@ -2,7 +2,7 @@
 
 # The Discovery BPA
 
-This subfolder contains the files associated with the underlying BPA as they were once the solicitation closed.
+This subfolder contains the files associated with the underlying BPA as they were once the solicitation closed as well as [all the resources necessary](Resources/README.md) to help you operationalize the evaluation process in your own procurement.
 
 ## Index
 
