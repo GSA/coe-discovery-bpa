@@ -2,6 +2,12 @@
 
 These are sample challenge questions and a sample scenario question you can reference when developing your own.
 
+- [Challenge Questions](https://github.com/GSA/coe-discovery-bpa/blob/master/BPA/Resources/Sample-Questions.md#challenge-questions)
+   - [Change Management](https://github.com/GSA/coe-discovery-bpa/blob/master/BPA/Resources/Sample-Questions.md#change-management)
+   - [Customer Experience](https://github.com/GSA/coe-discovery-bpa/blob/master/BPA/Resources/Sample-Questions.md#customer-experience)
+   - [Data Analytics](https://github.com/GSA/coe-discovery-bpa/blob/master/BPA/Resources/Sample-Questions.md#data-analytics)
+- [Scenario Question](https://github.com/GSA/coe-discovery-bpa/blob/master/BPA/Resources/Sample-Questions.md#scenario-question)
+
 ## Challenge Questions
 
 ### Change Management
